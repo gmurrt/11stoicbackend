@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/validate-receipt.js": {
+      "maxDuration": 30
+    }
+  }
+}
